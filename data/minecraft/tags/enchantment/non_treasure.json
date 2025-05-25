@@ -1,0 +1,12 @@
+{
+	"values": [
+		"enchantplus:helmet/bright_vision",
+		"enchantplus:armor/fury",
+		"enchantplus:boots/agility",
+		"enchantplus:sword/xp_boost",
+		"enchantplus:sword/life_steal",
+		"enchantplus:tools/auto_smelt",
+		"enchantplus:mace/wind_propulsion"
+	],
+	"replace": false
+}
